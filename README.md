@@ -1,4 +1,4 @@
-### This is a web scraper that takes data from multiple sports reference sites in the Los Angeles area and messages me to get discounted food.
+### This is a discord bot that takes data from multiple sports APIs in the Los Angeles area and messages me to get discounted food.
 
 # The current Los Angeles area teams that have promotions are:
 
